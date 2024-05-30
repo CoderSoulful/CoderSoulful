@@ -1,4 +1,4 @@
-In EN:<BR>
+EN:<BR>
 👋 Hello! I'm CoderSoulful! I'm a 22-year-old software developer who embarked on a passionate journey in the world of software. My love and curiosity for technology constantly drive me to learn new things and develop projects. Below you can find more information:
 
 <BR>
@@ -39,7 +39,7 @@ Using technology to simplify people's lives.<BR>
 ⚡ Fun fact: When I bought my first computer, I saved money not for a game but for a coding magazine!
 
 
-In TR:<BR>
+TR:<BR>
 👋 Merhaba! Ben CoderSoulful! 22 yaşında bir yazılım geliştiriciyim ve yazılım dünyasında tutkulu bir yolculuğa çıktım. Teknolojiye olan sevgim ve merakım beni sürekli olarak yeni şeyler öğrenmeye ve projeler geliştirmeye teşvik ediyor. Aşağıda daha fazla bilgi bulabilirsiniz:<BR><BR>
 
 <BR>🚀 Teknolojik Yeteneklerim:<BR>
